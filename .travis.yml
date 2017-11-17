@@ -7,6 +7,10 @@ branches:
 
 before_install:
 - openssl aes-256-cbc -K $encrypted_a544a21591f6_key -iv $encrypted_a544a21591f6_iv -in .travis/id_rsa.enc -out id_rsa -d
+- chmod 600 ~/.ssh/id_rsa
+- eval $(ssh-agent)
+- ssh-add ~/.ssh/id_rsa
+- cp .travis/ssh_config ~/.ssh/config
 - export TZ='Asia/Shanghai'
 - npm install -g hexo
 - npm install -g hexo-cli
@@ -27,6 +31,7 @@ install:
     #- npm install
 # 执行的命令
 script:
+- ssh -T git@git.coding.net
 - hexo clean
 - hexo generate
 # 执行的成功后执行
