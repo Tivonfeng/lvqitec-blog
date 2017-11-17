@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 绿旗科技-儿童编程
+title: 绿旗科技-仪征儿童人工智能人才培养基地
 subtitle: 儿童编程教育践行者
 description: 儿童编程教育践行者 
-author: TivonFeng
+author: 绿旗科技
 language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://pages.lvqitec.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -79,7 +79,7 @@ theme: next
 deploy:
   type: git 
   repository:
-    github: git@github.com:Tivonfeng/tivonfeng.github.io.git 
+      #github: git@github.com:Tivonfeng/tivonfeng.github.io.git 
     coding: git@git.coding.net:TivonFeng/lvqitec.git
   branch: dev
 
