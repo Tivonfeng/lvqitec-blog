@@ -6,7 +6,7 @@ branches:
    - master
 
 before_install:
-- openssl aes-256-cbc -K $encrypted_a544a21591f6_key -iv $encrypted_a544a21591f6_iv -in id_rsa.enc -out id_rsa -d
+- openssl aes-256-cbc -K $encrypted_a544a21591f6_key -iv $encrypted_a544a21591f6_iv -in .travis/id_rsa.enc -out id_rsa -d
 - export TZ='Asia/Shanghai'
 - npm install -g hexo
 - npm install -g hexo-cli
