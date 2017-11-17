@@ -11,6 +11,7 @@ before_install:
 - npm install -g hexo
 - npm install -g hexo-cli
 - npm install hexo-wordcount --save
+- npm install hexo-fs --save
 - npm install 
 # ------------------------------------------------
 # 设置github账户信息 注意修改成自己的信息
