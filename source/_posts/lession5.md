@@ -8,5 +8,5 @@ top: 95
 ---
 
 <!--more-->
-{% dplayer "url=http://oz5hq3kw8.bkt.clouddn.com/%E7%AC%AC%E4%B8%83%E8%AF%BE%20%E7%89%B9%E6%95%88%E6%A8%A1%E5%9D%97.mp4" "api=http://dplayer.daoapp.io" "pic=http://devtest.qiniudn.com/若能绽放光芒.png" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %}
+{% dplayer "url=http://oz5hq3kw8.bkt.clouddn.com/%E7%AC%AC5%E8%AF%BE%20%E8%BF%90%E5%8A%A8%E6%A8%A1%E5%9D%97%E4%B9%8B%E5%9D%90%E6%A0%87-yasuo.mp4" "api=http://dplayer.daoapp.io" "pic=http://oz5hq3kw8.bkt.clouddn.com/%E7%AC%AC5%E8%AF%BE%E5%9D%90%E6%A0%87%E5%B0%81%E9%9D%A2%E6%88%AA%E5%9B%BE.png" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %}
 
