@@ -410,7 +410,7 @@ gitment:
 # Available value:
 #    button | slide
 # Warning: Baidu Share does not support https.
-#baidushare:
+baidushare: true
 ##  type: button
 
 # Share
@@ -420,7 +420,7 @@ gitment:
 #jiathis:
   ##uid: Get this uid from http://www.jiathis.com/
 #add_this_id:
-  jiathis: true 
+jiathis: true 
 
 # Share
 duoshuo_share: true
