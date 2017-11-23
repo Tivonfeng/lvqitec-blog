@@ -137,11 +137,11 @@ social_icons:
 
 # Blog rolls
 links_icon: link
-links_title: Links
-links_layout: block
-#links_layout: inline
-#links:
-  #Title: http://example.com/
+links_title: 推荐阅读
+#links_layout: block
+links_layout: inline
+links:
+  scratch入门教程综合帖（必看！！）: http://pages.lvqitec.com/2017/11/17/first/#more
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
