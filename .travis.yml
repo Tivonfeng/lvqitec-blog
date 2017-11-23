@@ -18,6 +18,7 @@ before_install:
 - npm install hexo-wordcount --save
 - npm install hexo-fs --save
 - npm install 
+- ls
 - cp .travis/generator.js ~/node_modules/hexo-generator-index/lib/
 # ------------------------------------------------
 # 设置github账户信息 注意修改成自己的信息
