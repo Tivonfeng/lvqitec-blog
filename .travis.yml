@@ -4,6 +4,7 @@ node_js:
 branches:
   only:
    - master
+   - dev
 
 before_install:
 - openssl aes-256-cbc -K $encrypted_a544a21591f6_key -iv $encrypted_a544a21591f6_iv -in .travis/id_rsa.enc -out ~/.ssh/id_rsa -d
