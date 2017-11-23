@@ -22,10 +22,10 @@ copyright:
 <!--more-->
 
 1. 首先百度搜索scratch，打开scratch官网🔎
-&#8195;&#8195;![img-w260](http://ozvj1hi5z.bkt.clouddn.com/baidusosuo.png)
+&#8195;&#8195;![img-w160](http://ozvj1hi5z.bkt.clouddn.com/baidusosuo.png)
 
 2. 打开scratch官网🐯
-&#8195;&#8195;![img-w250](http://ozvj1hi5z.bkt.clouddn.com/scratch%E5%AE%98%E7%BD%91.png)
+&#8195;&#8195;![img-w180](http://ozvj1hi5z.bkt.clouddn.com/scratch%E5%AE%98%E7%BD%91.png)
 
 3. 在下面Support找到offlineeditor，点击进入。🛫
 ![img-w450](http://ozvj1hi5z.bkt.clouddn.com/offlineeditor.png)
@@ -36,5 +36,5 @@ copyright:
 5. 然后下载安装scratch。 ⚒
 ![img-w450](http://ozvj1hi5z.bkt.clouddn.com/%E4%B8%8B%E8%BD%BD%E7%A6%BB%E7%BA%BF%E7%BC%96%E8%BE%91%E5%99%A8.png)
 6. 安装完成后软件默认打开🌟⭐️
-![img-w350](http://ozvj1hi5z.bkt.clouddn.com/%E6%88%AA%E5%9B%BEscratch%E8%BD%AF%E4%BB%B6%E6%89%93%E5%BC%80.png)
+![img-w250](http://ozvj1hi5z.bkt.clouddn.com/%E6%88%AA%E5%9B%BEscratch%E8%BD%AF%E4%BB%B6%E6%89%93%E5%BC%80.png)
 
