@@ -235,9 +235,9 @@ wechat_subscriber:
 
 # Reward
 #reward_comment: Donate comment here
-#wechatpay: /uploads/wechatpay.jpg
+wechatpay: /uploads/wechatpay.jpg
 alipay: /uploads/alipay.jpg
-bitcoin: /uploads/wechatpay.jpg
+#bitcoin: /uploads/wechatpay.jpg
 
 # Declare license on posts
 post_copyright:
