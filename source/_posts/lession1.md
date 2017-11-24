@@ -19,19 +19,19 @@ top: 99
 <!--more-->
 
 1. 首先百度搜索scratch🔎
-&#8195;&#8195;![](http://oz5hq3kw8.bkt.clouddn.com/baidusosuo.png?imageMogr2/thumbnail/!25p)
+&#8195;&#8195;![](http://oz5hq3kw8.bkt.clouddn.com/baidusosuo.png?imageMogr2/thumbnail/!75p)
 
 2. 打开scratch官网🐯
-&#8195;&#8195;![](http://oz5hq3kw8.bkt.clouddn.com/scratch%E5%AE%98%E7%BD%91.png?imageMogr2/thumbnail/!40p)
+&#8195;&#8195;![](http://oz5hq3kw8.bkt.clouddn.com/scratch%E5%AE%98%E7%BD%91.png?imageMogr2/thumbnail/!70p)
 
 3. 在下面Support找到offlineeditor，点击进入。🛫
-	&#8195;&#8195;![](http://oz5hq3kw8.bkt.clouddn.com/offlineeditor.png?imageMogr2/thumbnail/!20p)
+	&#8195;&#8195;![](http://oz5hq3kw8.bkt.clouddn.com/offlineeditor.png)
 
 4. 首先下载安装AdobeAir。🗝
-&#8195;&#8195;![](http://oz5hq3kw8.bkt.clouddn.com/xiazaiAdobeair.png?imageMogr2/thumbnail/!20p)
+&#8195;&#8195;![](http://oz5hq3kw8.bkt.clouddn.com/xiazaiAdobeair.png?imageMogr2/thumbnail/!100p)
 
 5. 然后下载安装scratch。 ⚒
-&#8195;&#8195;![](http://oz5hq3kw8.bkt.clouddn.com/%E4%B8%8B%E8%BD%BD%E7%A6%BB%E7%BA%BF%E7%BC%96%E8%BE%91%E5%99%A8.png?imageMogr2/thumbnail/!20p)
+&#8195;&#8195;![](http://oz5hq3kw8.bkt.clouddn.com/%E4%B8%8B%E8%BD%BD%E7%A6%BB%E7%BA%BF%E7%BC%96%E8%BE%91%E5%99%A8.png?imageMogr2/thumbnail/!100p)
 6. 安装完成后软件默认打开🌟⭐️
-&#8195;&#8195;![img-w250](http://oz5hq3kw8.bkt.clouddn.com/%E6%88%AA%E5%9B%BEscratch%E8%BD%AF%E4%BB%B6%E6%89%93%E5%BC%80.png?imageMogr2/thumbnail/!20p)
+&#8195;&#8195;![](http://oz5hq3kw8.bkt.clouddn.com/%E6%88%AA%E5%9B%BEscratch%E8%BD%AF%E4%BB%B6%E6%89%93%E5%BC%80.png?imageMogr2/thumbnail/!100p)
 
