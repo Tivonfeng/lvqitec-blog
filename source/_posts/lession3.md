@@ -15,16 +15,13 @@ top: 97
 
 内容简介：
 &#8195;&#8195;今天我们要讲的是，运动标签里的“移动”模块和“碰到边缘就反弹”模块。
-&#8195;&#8195;首先我们来看一下程序的效果
-<div align=center>![截图小鱼游泳](http://oz5hq3kw8.bkt.clouddn.com/截图小鱼游泳.png?imageMogr2/thumbnail/300x300)
-</div>
-
+&#8195;&#8195;首先我们来看一下程序的效果<!--more-->
+<div align=center>![截图小鱼游泳](http://oz5hq3kw8.bkt.clouddn.com/截图小鱼游泳.png?imageMogr2/thumbnail/300x300)</div>
 &#8195;&#8195;程序的代码如下
-<div align=center>![截图小鱼游来游去程序](http://oz5hq3kw8.bkt.clouddn.com/截图小鱼游来游去程序.png?imageMogr2/thumbnail/100x200)
-</div>
+<div align=center>![截图小鱼游来游去程序](http://oz5hq3kw8.bkt.clouddn.com/截图小鱼游来游去程序.png?imageMogr2/thumbnail/100x200)</div>
 &#8195;&#8195;记得修改旋转模式为左右旋转<div align=center>
 ![截图修改旋转模式](http://oz5hq3kw8.bkt.clouddn.com/截图修改旋转模式.png?imageMogr2/thumbnail/300x300)
 </div>
 
-<!--more-->
+
 
