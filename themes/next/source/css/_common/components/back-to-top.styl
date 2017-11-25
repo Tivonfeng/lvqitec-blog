@@ -16,6 +16,7 @@
   transition-property: bottom;
   the-transition();
 
+  /*
   +tablet() {
     fixbutton() if hexo-config('sidebar.onmobile');
     hide() if not hexo-config('sidebar.onmobile');
@@ -25,6 +26,21 @@
     hide() if not hexo-config('sidebar.onmobile');
   }
 
+  */
+  +mobile() {
+  right: 20px;
+  -moz-opacity: 0.8;
+  -khtml-opacity: 0.8;
+  opacity: 0.8;
+  /*display: none;*/
+}
++tablet() {
+  right: 20px;
+  -moz-opacity: 0.8;
+  -khtml-opacity: 0.8;
+  opacity: 0.8;
+  /*display: none;*/
+}
   &.back-to-top-on {
     bottom: $b2t-position-bottom-on;
   }
