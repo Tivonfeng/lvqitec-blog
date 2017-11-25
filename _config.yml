@@ -79,7 +79,7 @@ theme: next
 deploy:
   type: git 
   repository:
-      github: git@github.com:Tivonfeng/tivonfeng.github.io.git 
+    github: git@github.com:Tivonfeng/tivonfeng.github.io.git 
     coding: git@git.coding.net:TivonFeng/lvqitec.git
   branch: master
 
