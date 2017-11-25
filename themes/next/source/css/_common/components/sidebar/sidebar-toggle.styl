@@ -11,6 +11,7 @@
   cursor: pointer;
   -webkit-transform: translateZ(0);
 
+  /*
   +tablet() {
     fixbutton() if hexo-config('sidebar.onmobile');
     hide() if not hexo-config('sidebar.onmobile');
@@ -19,6 +20,23 @@
     fixbutton() if hexo-config('sidebar.onmobile');
     hide() if not hexo-config('sidebar.onmobile');
   }
+  */
+  +tablet() {
+  right: 20px;
+  bottom: 45px;  //微调位置
+  -moz-opacity: 0.8;
+  -khtml-opacity: 0.8;
+  opacity: 0.8;  //增加透明效果
+  /*display: none;*/
+}
++mobile() {
+  right: 20px;
+  bottom: 45px;  //微调位置
+  -moz-opacity: 0.8;
+  -khtml-opacity: 0.8;
+  opacity: 0.8;  //增加透明效果
+  /*display: none;*/
+}
 }
 
 
