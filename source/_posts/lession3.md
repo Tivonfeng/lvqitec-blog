@@ -1,7 +1,7 @@
 ---
 title: 「炒鸡简单的scratch儿童编程课」第三课-scratch运动模块的移动和反弹
 date: 2017-11-17 21:15:58
-tags: 人工智能 儿童编程 scratch
+tags: [人工智能,儿童编程,scratch]
 categories: scratch教程
 copyright:
 top: 97

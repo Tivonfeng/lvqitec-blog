@@ -1,7 +1,7 @@
 ---
 title: 「炒鸡简单的scratch儿童编程课」第八课-scratch外观模块之造型切换
 date: 2017-11-17 21:20:27
-tags: 人工智能 儿童编程 scratch
+tags: [人工智能,儿童编程,scratch]
 categories: scratch教程
 copyright:
 top: 92
