@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 绿旗科技-国际儿童编程中心
-subtitle: 儿童编程教育践行者
-description: 儿童编程教育践行者 
+title: 绿旗科技国际儿童编程中心
+subtitle: 3-16岁儿童编程教育践行者
+description: 绿旗科技是国内专业致力于3-16岁儿童编程教育的践行者，起步与扬州仪征市。业务范围：乐高积木，乐高机器人，scratch儿童编程，makeblock机器人。 
 author: 绿旗科技
 language: zh-Hans
 timezone: Asia/Shanghai
@@ -41,7 +41,7 @@ highlight:
   enable: true
   line_number: true
   auto_detect: false
-  tab_replace:
+  tab_replace: true
   
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
