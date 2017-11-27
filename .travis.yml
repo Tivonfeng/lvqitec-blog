@@ -1,6 +1,6 @@
 
 notifications:
-   webhooks: https://oapi.dingtalk.com/robot/send?access_token=c167578dc1a631953552738a842999e4c484888accfee64a9cd7e0a95c02fe53
+   webhooks: https://oapi.dingtalk.com/robot/send?access_token=b12a55dfaeb271a2934a2d8f0e81cdc4d299ec9fcebf4c56c12dc4c7076fd6cd
 language: node_js
 node_js:
 - "8.9.0"
