@@ -9,7 +9,7 @@ top: 96
 
 
 
-{% dplayer "url=http://oz5hq3kw8.bkt.clouddn.com/%E7%AC%AC%E5%9B%9B%E8%AF%BE%20%E6%97%8B%E8%BD%AC+%E9%9D%A2%E5%90%91%E9%BC%A0%E6%A0%87%E6%8C%87%E9%92%88.mp4" "api=http://oz5hq3kw8.bkt.clouddn.com/%E7%AC%AC4%E8%AF%BE%E5%B0%81%E9%9D%A2%E6%88%AA%E5%9B%BE.png" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %}
+{% dplayer "url=http://oz5hq3kw8.bkt.clouddn.com/%E7%AC%AC4%E8%AF%BE%20%E5%A4%96%E8%A7%82%E6%A8%A1%E5%9D%97%E4%B9%8B%E6%97%8B%E8%BD%AC%E9%9D%A2%E5%90%91%E9%BC%A0%E6%A0%87%E6%8C%87%E9%92%88.mp4" "api=http://oz5hq3kw8.bkt.clouddn.com/%E7%AC%AC4%E8%AF%BE%E5%B0%81%E9%9D%A2%E6%88%AA%E5%9B%BE.png" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %}
 视频简介：本节课主要讲解运动模块下的面向、旋转和移到鼠标指针模块！🐥
 
 内容简介：
