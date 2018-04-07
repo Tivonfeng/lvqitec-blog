@@ -7,7 +7,7 @@ copyright:
 top: 94
 ---
 
-{% dplayer "url=http://oz5hq3kw8.bkt.clouddn.com/%E7%AC%AC6%E8%AF%BE%20%E5%A4%96%E8%A7%82%E6%A8%A1%E5%9D%97%E5%80%BC%E5%B0%8F%E7%86%8A%E5%AF%B9%E8%AF%9D.mp4" "api=http://dplayer.daoapp.io" "pic=http://oz5hq3kw8.bkt.clouddn.com/%E7%AC%AC6%E8%AF%BE%E5%B0%81%E9%9D%A2%E6%88%AA%E5%9B%BE%E5%B0%8F%E7%99%BD%E7%86%8A.png" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %}
+{% dplayer "url=http://oz5hq3kw8.bkt.clouddn.com/%E6%95%99%E5%AD%A66-6.mp4" "api=http://dplayer.daoapp.io" "pic=http://oz5hq3kw8.bkt.clouddn.com/%E7%AC%AC6%E8%AF%BE%E5%B0%81%E9%9D%A2%E6%88%AA%E5%9B%BE%E5%B0%8F%E7%99%BD%E7%86%8A.png" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %}
 
 视频简介：
 &#8195;&#8195;🦊本节课主要通过建立小熊和他妈妈对话的场景，来讲解外观模块下的说hello 2秒积木块。
