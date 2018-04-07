@@ -7,7 +7,7 @@ copyright:
 top: 93
 ---
 
-{% dplayer "url=http://oz5hq3kw8.bkt.clouddn.com/%E7%AC%AC7%E8%AF%BE%20%E5%A4%96%E8%A7%82%E6%A8%A1%E5%9D%97%E4%B9%8B%E7%89%B9%E6%95%88%E6%A8%A1%E5%9D%97.mp4" "api=http://oz5hq3kw8.bkt.clouddn.com/%E7%AC%AC%207%E8%AF%BE%E5%B0%81%E9%9D%A2%E6%88%AA%E5%9B%BE.png" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %}
+{% dplayer "url=http://oz5hq3kw8.bkt.clouddn.com/%E6%95%99%E5%AD%A67.mp4" "api=http://dplayer.daoapp.io" "pic=http://oz5hq3kw8.bkt.clouddn.com/%E7%AC%AC7%E8%AF%BE%E5%B0%81%E9%9D%A2%E6%88%AA%E5%9B%BE%E6%B6%88%E5%A4%B1%E7%9A%84%E7%8B%AE%E5%AD%90.png" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %}
 视频简介：本节课主要讲解特效模块，实现旋转特效、透明特效和修改角色大小。👻
 
 内容简介：
