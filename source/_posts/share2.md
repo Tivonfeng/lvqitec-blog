@@ -8,7 +8,7 @@ top: 100
 ---
 
 
-{% dplayer "url=http://oz5hq3kw8.bkt.clouddn.com/itchat.mp4" "api=http://dplayer.daoapp.io" "pic=![Itchat](Itchat.png)" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=
+{% dplayer "url=http://oz5hq3kw8.bkt.clouddn.com/itchat-1.mp4" "api=http://dplayer.daoapp.io" "pic=![Itchat](Itchat.png)" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=
 tokendemo" %}
 
 视频简介：使用Itchat库来制作一个微信聊天机器人
