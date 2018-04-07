@@ -15,14 +15,14 @@ top: 100
 <center> 课程目录🌈 </center >  
 
 
-[🍄第1课下载安装scratch](http://pages.lvqitec.com/2017/11/17/lession1/#more)
-[🍊第2课是scratch界面介绍](http://pages.lvqitec.com/2017/11/17/lession2/)
-[🦀第3课是scratch运动模块之移动和反弹](http://pages.lvqitec.com/2017/11/17/lession3/)
-[🐱第4课scratch运动模块之面向和旋转](http://pages.lvqitec.com/2017/11/17/lession4/)
-[🐲第5课scratch运动模块之坐标](http://pages.lvqitec.com/2017/11/17/lession5/)
-[🌸第6课scratch外观模块之小熊对话](http://pages.lvqitec.com/2017/11/17/lession6/)
-[🐬第7课scratch外观模块之特效](http://pages.lvqitec.com/2017/11/17/lession7/)
-[🐶第8课scratch外观模块之造型切换](http://pages.lvqitec.com/2017/11/17/lession8/)
+[🍄第1课下载安装scratch](http://lvqitec.com/2017/11/17/lession1/)
+[🍊第2课是scratch界面介绍](http://lvqitec.com/2017/11/17/lession2/)
+[🦀第3课是scratch运动模块之移动和反弹](http://lvqitec.com/2017/11/17/lession3/)
+[🐱第4课scratch运动模块之面向和旋转](http://lvqitec.com/2017/11/17/lession4/)
+[🐲第5课scratch运动模块之坐标](http://lvqitec.com/2017/11/17/lession5/)
+[🌸第6课scratch外观模块之小熊对话](http://lvqitec.com/2017/11/17/lession6/)
+[🐬第7课scratch外观模块之特效](http://lvqitec.com/2017/11/17/lession7/)
+[🐶第8课scratch外观模块之造型切换](http://lvqitec.com/2017/11/17/lession8/)
 [🦋第9课scratch控制模块之条件执行]()
 [🐸第10课scratch侦测模块之按键侦测]()
 
