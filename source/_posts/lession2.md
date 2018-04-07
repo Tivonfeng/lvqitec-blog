@@ -1,8 +1,8 @@
 ---
 title: 「炒鸡简单的scratch儿童编程课」第二课-scratch界面介绍
 date: 2017-11-17 21:14:11
-tags: [人工智能,儿童编程,scratch]
-categories: scratch教程
+tags: [C语言,计算器,儿童编程]
+categories: 案例分享
 copyright: 绿旗科技
 top: 98
 ---
