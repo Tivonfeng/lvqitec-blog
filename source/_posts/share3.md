@@ -7,7 +7,7 @@ copyright:
 top: 100
 ---
 
-{% dplayer "url=http://oz5hq3kw8.bkt.clouddn.com/%E7%9F%AD%E4%BF%A1%E5%8F%91%E9%80%81%E6%8E%A5%E5%8F%A3.mp4" "api=http://dplayer.daoapp.io" "pic=![短信群发](短信群发.png)" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %}
+{% dplayer "url=http://oz5hq3kw8.bkt.clouddn.com/%E7%9F%AD%E4%BF%A1.mov" "api=http://dplayer.daoapp.io" "pic=![短信群发](短信群发.png)" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %}
 
 
 视频简介：短信群发接口
