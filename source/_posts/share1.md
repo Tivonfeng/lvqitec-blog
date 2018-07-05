@@ -5,6 +5,7 @@ tags: [C语言编程,儿童编程,计算器]
 categories:
 copyright:
 top: 100
+encrypt: true
 ---
 
 
